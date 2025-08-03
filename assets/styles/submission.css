@@ -1,0 +1,12 @@
+#submission {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  justify-content: center;
+  align-items: center;
+}
+
+#submission h1 {
+  font-size: 38px;
+}
