@@ -1,2 +1,1 @@
-# Rochelle-s-First-Portfolio
-first time hahahahahahahhahahah
+#Rochelle Portfolio-Social Project
